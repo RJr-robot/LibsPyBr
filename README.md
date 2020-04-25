@@ -1,2 +1,2 @@
 # LibsPyBr
-Modelo Colaborativos
+Modelo Colaborativo do curso
